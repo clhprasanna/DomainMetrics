@@ -33,7 +33,7 @@ public class URLMetricService
 	private static final String HMAC_SHA1_ALGORITHM = "HmacSHA1";
 	private static final String AccessID = "mozscape-ac52dbcf56";
 	private static final String SecretKey = "bc0cc0d590fce266ba8f9fc26b996439";
-	private Map<String, String> parameters = new HashMap<>();
+	private Map<String, String> parameters = new HashMap<String, String>();
 	private static final String baseURL = "https://lsapi.seomoz.com/linkscape/url-metrics/";
 
 	@Autowired
