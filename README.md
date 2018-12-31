@@ -1,2 +1,5 @@
-# MozDomainData
-Rest API to Fetch Moz Domain Data for a given URL
+# Domain Metrics
+
+Rest API's to Fetch Metrics for a given domain from Moz, Alexa and Google. 
+
+
